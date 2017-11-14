@@ -8,8 +8,5 @@ public class StringExample {
         stringBuilder.append("asd");
         stringBuilder.append("cssaccs");
 
-        String text = "Ala ma kota";
-        String cos = text.;
-        System.out.println(cos);
     }
 }
